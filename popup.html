@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>DeepSeek Translator</title>
+  <style>
+      body {
+          font-family: Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
+          margin: 0;
+          padding: 10px;
+          min-width: 300px;
+          min-height: 200px;
+      }
+      h3 {
+          margin-top: 0;
+      }
+      input {
+          width: 100%;
+          padding: 8px;
+          margin-bottom: 10px;
+          box-sizing: border-box;
+      }
+      button {
+          width: 100%;
+          padding: 10px;
+          background-color: #4CAF50;
+          color: white;
+          border: none;
+          cursor: pointer;
+      }
+      button:hover {
+          background-color: #45a049;
+      }
+  </style>
+</head>
+<body>
+<h3>设置API Key</h3>
+<input type="text" id="api-key" placeholder="输入DeepSeek API Key">
+<button id="save-key">保存</button>
+<script src="popup.js"></script>
+</body>
+</html>
