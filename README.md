@@ -1,6 +1,6 @@
 # DeepSeek Translator Chrome Extension
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
 **DeepSeek Translator Chrome Plugin** 是一个 **极简、免费、开源** 的 Chrome 扩展插件，项目完全基于 **DeepSeek 大模型** 生成开发，能够通过右键菜单快速翻译选中的文本，并将结果显示在侧边栏中。与现有插件市场的 AI 翻译插件相比，DeepSeek Translator **无需付费、无需复杂配置**，开箱即用，专注于为用户提供流畅的翻译体验。其翻译效果 **远超传统机翻**，能够更准确地理解上下文，提供自然流畅的翻译结果。
